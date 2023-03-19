@@ -6,7 +6,7 @@ import vue2 from '@vitejs/plugin-vue2'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base:"/lesson_app_cw3/",
+  base:"/cw3-mobileApp/",
 
   plugins: [
     vue2(),
